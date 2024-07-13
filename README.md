@@ -16,7 +16,7 @@ Bu proje, uçuşların iniş, kalkış ve varış yerlerini detaylı bir şekild
 - **react-redux**
 
 # Ekran Görüntüsü
-é[](./public/Ekran%20Resmi%202024-07-13%2020.54.43.png)
+[](./public/Ekran%20Resmi%202024-07-13%2020.54.43.png)
 
 # Gif
 
